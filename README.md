@@ -1,6 +1,8 @@
 # VibeCheck - s3873756
 Sidhra Fernando-Plant
 
+Completed as an assignment as part of the subject Further Web Programming in Bachelor of Computer Science (RMIT)
+
 ## References
 The following course materials were used in the making of this project
 
@@ -16,14 +18,10 @@ The following course materials were used in the making of this project
 **Week 4 Lab Code archive by Shekhar Kalra**
     Parts of the React side of this project were written using this code as a template, specifically the file App.js (including routing elements and login/logout/storing user credentials)
 
-(NOTE: Sincere apologies if I got the author wrong for these references, I credited the author to the best of my knowledge)
 
-
-##Login credentials
+## Login credentials
 username: Alex123
 password: abc123!
 
-##Features implemented
+## Features implemented
 All features outlined in the spec have been implemented, with the exception of image uploads in posts for the HD section of the assignment (however image uploads for avatars are implemented).
-
-Please contact s3873756@student.rmit.edu.au if you have any issues or queries.
